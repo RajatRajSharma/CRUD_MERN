@@ -33,15 +33,15 @@ This project is structured as follows:
 
 ### Website
 
-![Website](C:\Users\Rajat Raj Sharma\Pictures\Screenshots\CRUD_website.png)
+![Website](./CRUD_website.png)
 
 ### Form
 
-![Form](C:\Users\Rajat Raj Sharma\Pictures\Screenshots\CRUD_form.png)
+![Form](./CRUD_form.png)
 
 ### Database (MongoDB)
 
-![Database](C:\Users\Rajat Raj Sharma\Pictures\Screenshots\CRUD_database.png)
+![Database](./CRUD_database.png)
 
 ## Additional Information
 
