@@ -43,6 +43,7 @@ This project is structured as follows:
 
 ![Database](./CRUD_database.png)
 
+
 ## Additional Information
 
 For more details, you can refer to the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started) and [React documentation](https://reactjs.org/).
