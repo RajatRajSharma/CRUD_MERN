@@ -51,7 +51,6 @@ For more details, you can refer to the [Create React App documentation](https://
 ## Deployment
 
 To deploy this application for production, you can use the `npm run build` command, which will generate a production-ready build in the `build` folder.
-
 ## Troubleshooting
 
 If you encounter any issues, please check the [troubleshooting guide](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify) provided in the Create React App documentation.
