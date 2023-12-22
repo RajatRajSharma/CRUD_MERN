@@ -111,3 +111,8 @@ mongoose.connect("mongodb://localhost:27017/Employee_crud")
 })
 
 //     http://localhost:8080
+//     http://localhost:8080
+
+//        On Server Side         ||         On Client Side
+//          cd server            ||           cd client
+//          npm start            ||           npm start
