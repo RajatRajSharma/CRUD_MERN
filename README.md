@@ -16,8 +16,8 @@ This web application allows you to perform the following actions:
 
 1. Clone this repository to your local machine.
 2. Install the necessary dependencies by running `npm install`.
-3. Run the application locally using `npm start`. The app will open in your web browser at [http://localhost:3000](http://localhost:3000).
-4. Follow the on-screen instructions to manage employee data.
+3. Run the application locally using `npm start` on `cd client`. The app will open in your web browser at [http://localhost:3000](http://localhost:3000).
+4. Run the application locally using `npm start` on `cd server`. The app will open in your web browser at [http://localhost:8080](http://localhost:8080).
 
 ## Project Structure
 
